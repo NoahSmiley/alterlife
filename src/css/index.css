@@ -1,0 +1,12 @@
+@import url("http://fonts.cdnfonts.com/css/gilroy-bold");
+body {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#55baf9), color-stop(#f4cbf4), to(#f8d5b2));
+  background-image: linear-gradient(#55baf9, #f4cbf4, #f8d5b2);
+  font-family: "Gilroy-Regular", sans-serif;
+  font-weight: 400;
+  color: white;
+  height: 100vh;
+  margin: 0;
+  width: 100vw;
+}
+/*# sourceMappingURL=index.css.map */
